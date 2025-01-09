@@ -11,25 +11,25 @@ const projects = [
     id: 1,
     title: 'QCU Clone Website',
     imageUrl: img1,
-    description: 'Description of Project 1',
+    description: '',
   },
   {
     id: 2,
     title: 'E-Commerce Website',
     imageUrl: img2,
-    description: 'Description of Project 2',
+    description: '',
   },
   {
     id: 3,
     title: 'Movie Website',
     imageUrl: img3,
-    description: 'Description of Project 3',
+    description: '',
   },
   {
     id: 4,
     title: 'Bayonetta Glasses Shop',
     imageUrl: img4,
-    description: 'Description of Project 4',
+    description: '',
   },
   // Add more projects as needed
 ];
